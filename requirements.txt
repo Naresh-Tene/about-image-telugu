@@ -1,7 +1,5 @@
 streamlit
 Pillow
 transformers
-torch
-accelerate
 requests
 sentencepiece
