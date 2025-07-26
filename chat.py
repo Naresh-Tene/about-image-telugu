@@ -68,3 +68,4 @@ if uploaded_file is not None:
             else:
                 telugu_caption = translation_result[0]['translation_text']
                 st.success(f"**తెలుగు వివరణ:**\n\n{telugu_caption}")
+
